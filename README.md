@@ -36,7 +36,7 @@ _Completed 2022_
 
 ## Projects (Large Scale)
 
-**Text Classification System (Private Project)**  
+**Text Classification System (Work Project)**  
 - Developed a tool using Typesense for topic classification and tagging
 
 ## Additional
