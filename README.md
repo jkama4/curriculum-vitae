@@ -32,7 +32,7 @@ _Completed 2022_
 
 ## Skills
 
-- **Languages:** Python, Mathematics, Software Development
+**Python, Mathematics, Software Development**
 
 ## Projects (Large Scale)
 
