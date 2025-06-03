@@ -1,7 +1,7 @@
 # Jayden Kashani Maleki
 
 📍 Beverwijk, Netherlands • 🎓 BSc Artificial Intelligence (VU Amsterdam)  
-📧 jayden@email.com • 🌐 [GitHub](https://github.com/jkama4/) • 🔗 [LinkedIn](https://www.linkedin.com/in/jayden-k-b29174214/)
+📧 jaydenkashanimaleki@gmail.com • 🌐 [GitHub](https://github.com/jkama4/) • 🔗 [LinkedIn](https://www.linkedin.com/in/jayden-k-b29174214/)
 
 ## Profile
 
