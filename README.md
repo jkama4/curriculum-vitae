@@ -3,13 +3,9 @@
 📍 Amsterdam, Netherlands • 🎓 BSc Artificial Intelligence (VU Amsterdam)  
 📧 jayden@email.com • 🌐 [GitHub](https://github.com/jkama4/) • 🔗 [LinkedIn](https://www.linkedin.com/in/jayden-k-b29174214/)
 
----
-
 ## Profile
 
 I am Jayden Kashani Maleki, a 20-year-old student Artificial Intelligence at the Vrije Universiteit Amsterdam. I enjoy studying AI concepts, and working out problems to try and solve them, since I have a passion for math. Besides studying, I also work (part-time) as a developer. I mainly build APIs to enhance infrastructure within the company I work for.
-
----
 
 ## Education
 
@@ -25,8 +21,6 @@ _2022 – 2023_
 _Completed 2022_  
 - Focus on mathematics, physics, chemistry
 
----
-
 ## Work Experience
 
 **Software Developer (Part-time)**  
@@ -36,20 +30,14 @@ _Completed 2022_
 - Worked primarily with Python, and contributed to multi-language code reviews  
 - Designed scalable API architectures to integrate with publishing workflows
 
----
-
 ## Skills
 
 - **Languages:** Python, Mathematics, Software Development
-
----
 
 ## Projects (Large Scale)
 
 **Text Classification System (Private Project)**  
 - Developed a tool using Typesense for topic classification and tagging
-
----
 
 ## Additional
 - Fluent in Dutch and English
