@@ -1,7 +1,7 @@
 # Jayden Kashani Maleki
 
 📍 Beverwijk, Netherlands • 🎓 BSc Artificial Intelligence (VU Amsterdam)  
-📧 jaydenkashanimaleki@gmail.com • 🌐 [GitHub](https://github.com/jkama4/) • 🔗 [LinkedIn](https://www.linkedin.com/in/jayden-k-b29174214/)
+📧 jaydenkashanimaleki@gmail.com • 📞 +31 6 40 65 25 20 • 🌐 [GitHub](https://github.com/jkama4/) • 🔗 [LinkedIn](https://www.linkedin.com/in/jayden-k-b29174214/)
 
 ## Profile
 
@@ -11,7 +11,7 @@ I am Jayden Kashani Maleki, a 20-year-old student Artificial Intelligence at the
 
 **Vrije Universiteit Amsterdam** — BSc Artificial Intelligence  
 _2023 – Present_  
-- The study of Artificial Intelligence, where many mathematical subjects are covered (linear algebra, calculus, probability, statistics, logic, set theory, ML).
+- The study of Artificial Intelligence, where many mathematical subjects are covered - [VU Grades](vu_grades.pdf)
 
 **TU Delft** — BSc Applied Mathematics (not completed)  
 _2022 – 2023_  
