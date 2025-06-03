@@ -7,7 +7,7 @@
 
 ## Profile
 
-I am Jayden Kashani Maleki, a 20-years-old student Artificial Intelligence at the Vrije Universiteit Amsterdam. I enjoy studying AI concepts, and working out problems to try and solve them, since I have a passion for math. Besides studying, I also work (part-time) as a developer. I mainly build APIs to enhance infrastructure within the company I work for.
+I am Jayden Kashani Maleki, a 20-year-old student Artificial Intelligence at the Vrije Universiteit Amsterdam. I enjoy studying AI concepts, and working out problems to try and solve them, since I have a passion for math. Besides studying, I also work (part-time) as a developer. I mainly build APIs to enhance infrastructure within the company I work for.
 
 ---
 
